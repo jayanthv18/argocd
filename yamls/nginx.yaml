@@ -15,7 +15,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: nginx:1.23.3
+      - image: nginx:1.21.6
         name: nginx
 ---
 apiVersion: apps/v1
